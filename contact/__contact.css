@@ -1,0 +1,53 @@
+form{
+	height: 326px;
+	width: 234px;
+	background: #fff;
+	margin: 0 0 0 auto;
+}
+
+.name{
+	height: 44px;
+	width: 182px;
+	background: #ddf3df;
+	border-radius: 3px;
+	border: none;
+	margin: 15px 0 0 15px;
+	padding-left: 10px;
+	text-transform: uppercase;
+}
+
+.email{
+	height: 44px;
+	width: 182px;
+	background: #ddf3df;
+	border-radius: 3px;
+	border: none;
+	margin: 10px 0 0px 15px;
+	padding-left: 10px;
+	text-transform: uppercase;
+}
+
+.message{
+	height: 141px;
+	width: 182px;
+	background: #ddf3df;
+	border-radius: 3px;
+	border: none;
+	margin: 10px 0 0px 15px;
+	padding-left: 10px;
+	text-transform: uppercase;
+	resize: none;
+}
+
+form .send a{
+	font: 12px/25px "OpenSansRegular";
+	color: #fff;
+	text-transform: uppercase;
+	border-radius: 50px;
+	background: #4ace54;
+	padding: 10px 19px 10px 14px;
+}
+
+form .send{
+	margin: 15px 0 0 100px;
+}

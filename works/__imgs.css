@@ -1,0 +1,47 @@
+.img_1, .img_2, .img_3, .img_4, .img_5, .img_6{
+	background: #203748;
+	overflow-y: scroll;
+	height: 326px;
+}
+
+.img_1 img{
+	height: 279px;
+	width: 385px;
+	border-radius: 8px;
+	margin: 21px 0 26px 0;
+}
+
+.img_2 img{
+	height: 279px;
+	width: 385px;
+	border-radius: 8px;
+	margin: 21px 0 26px 0;
+}
+
+.img_3 img{
+	height: 279px;
+	width: 385px;
+	border-radius: 8px;
+	margin: 21px 0 26px 0;
+}
+
+.img_4 img{
+	height: 279px;
+	width: 385px;
+	border-radius: 8px;
+	margin: 21px 0 26px 0;
+}
+
+.img_5 img{
+	height: 279px;
+	width: 385px;
+	border-radius: 8px;
+	margin: 21px 0 26px 0;
+}
+
+.img_6 img{
+	height: 279px;
+	width: 385px;
+	border-radius: 8px;
+	margin: 21px 0 26px 0;
+}

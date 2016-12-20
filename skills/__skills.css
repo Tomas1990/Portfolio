@@ -1,0 +1,169 @@
+.skills{
+	background: #203748;
+	overflow-y: scroll;
+	height: 326px;
+}
+
+.ps{
+	margin: 58px 8px 0 102px;
+}
+
+.ps .img-circle{
+	background: #30a5dc;
+	height: 71px;
+	width: 71px;
+	float: left;
+	border: none;
+}
+
+.ps .img-circle:hover{
+	border: 5px solid #fff;
+}
+
+
+.ps .img-circle p{
+	color: #fff;
+	text-align: center;
+	margin-top: 17px;
+	font: 24px "OpenSansRegular";
+}
+
+.ps .img-circle p:hover{
+	margin-top: 13px;
+}
+
+.ps p{
+	font: 14px "OpenSansRegular";
+	color: #fff;
+	text-transform: uppercase;
+}
+
+.ai{
+	margin: 58px 8px 0 102px;
+}
+
+.ai .img-circle{
+	background: #ee742b;
+	height: 71px;
+	width: 71px;
+	border: none;
+	float: left;
+}
+
+.ai .img-circle:hover{
+	border: 5px solid #fff;
+}
+
+.ai .img-circle p{
+	color: #fff;
+	text-align: center;
+	margin-top: 17px;
+	font: 24px "OpenSansRegular";
+}
+
+.ai .img-circle p:hover{
+	margin-top: 13px;
+}
+
+.ai p{
+	font: 14px "OpenSansRegular";
+	color: #fff;
+	text-transform: uppercase;
+}
+
+.html5{
+	margin: 58px 8px 0 102px;
+}
+
+.html5 .img-circle{
+	background: #f04949;
+	height: 71px;
+	width: 71px;
+	border: none;
+	border-radius: 90px;
+	float: left;
+}
+
+.html5 .img-circle:hover{
+	border: 5px solid #fff;
+}
+
+.html5 .img-circle p{
+	color: #fff;
+	text-align: center;
+	margin-top: 25px;
+	font: 14px "OpenSansRegular";
+	text-transform: uppercase;
+}
+
+.html5 .img-circle p:hover{
+	margin-top: 20px;
+}
+
+.html5 p{
+	font: 14px "OpenSansRegular";
+	color: #fff;
+	text-transform: uppercase;
+}
+
+.css3{
+	margin: 58px 8px 0 102px;
+	height: 136px;
+}
+
+.css3 .img-circle{
+	background: #39d084;
+	height: 71px;
+	width: 71px;
+	border: none;
+	border-radius: 90px;
+	float: left;
+}
+
+.css3 .img-circle:hover{
+	border: 5px solid #fff;
+}
+
+.css3 .img-circle p{
+	color: #fff;
+	text-align: center;
+	margin-top: 25px;
+	font: 14px "OpenSansRegular";
+	text-transform: uppercase;
+}
+
+.css3 .img-circle p:hover{
+	margin-top: 20px;
+}
+
+.css3 p{
+	font: 14px "OpenSansRegular";
+	color: #fff;
+	text-transform: uppercase;
+}
+
+.progress{
+	width: 337px;
+	height: 11px;
+	border-radius: 5px;
+}
+
+.progress-bar-info{
+	width: 90%;
+	background: #30a5dc;
+}
+
+.progress-bar-warning{
+	width: 80%;
+	background: #ee742b;
+}
+
+.progress-bar-danger{
+	width: 75%;
+	background: #f04949;
+}
+
+.progress-bar-success{
+	width: 85%;
+	background: #39d084;
+}

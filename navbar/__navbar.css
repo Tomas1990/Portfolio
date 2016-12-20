@@ -1,0 +1,50 @@
+.navbar-collapse{
+	background-color: #f04949;
+	border-radius: 0px;
+	border: 0px;
+}
+
+.navbar-nav li{
+	text-transform: uppercase;
+	font: 14px "OpenSansRegular";
+	margin: 12px 0 11px 16px;
+}
+
+.navbar-inverse .navbar-nav li a{
+	color: #fff;
+	border-radius: 60px;
+	padding: 13px 21px 12px 18px;
+}
+
+.navbar-inverse .navbar-nav li a:hover{
+	color: #203748;
+}
+
+.navbar-inverse .navbar-nav .active a{
+	background: #203748;
+}
+
+.navbar-nav {
+    float:none;
+    display: block;
+    text-align: center;
+}
+
+.navbar-nav li {
+    display: inline-block;
+    float:none;
+}
+
+.navbar{
+	border: 0px;
+	border-radius: 0px;
+	margin: 0;
+}
+
+a span{
+	padding-right: 9px;
+}
+
+/* Долго не мог понять почему не срабатывает бургер, 
+пока не понял что переписал классы навбара бутстрап.
+Ошибку уже понял, на исправление не хватает времени */

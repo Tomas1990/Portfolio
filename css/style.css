@@ -1,0 +1,15 @@
+@import url(../css/scroll.css);
+@import url(../fonts/font.css);
+@import url(../navbar/__avatar.css);
+@import url(../navbar/__navbar.css);
+@import url(../footer/__footer.css);
+@import url(../profile/__profile.css);
+@import url(../skills/__skills.css);
+@import url(../works/__works.css);
+@import url(../works/__imgs.css);
+@import url(../resume/__resume.css);
+@import url(../contact/__contact.css);
+
+.container{
+	width: 100%;
+}

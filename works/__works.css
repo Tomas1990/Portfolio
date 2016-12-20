@@ -1,0 +1,12 @@
+.works{
+	background: #203748;
+	overflow-y: scroll;
+	height: 326px;
+}
+
+.works .row img{
+	width: 167px;
+	height: 175px;
+	margin: 36px 28px 40px 30px;
+	border-radius: 6px;
+}

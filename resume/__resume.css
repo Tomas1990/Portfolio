@@ -1,0 +1,44 @@
+.resume{
+	background: #203748;
+	height: 326px;
+}
+
+.resume h3{
+	text-transform: uppercase;
+	color: #4ace54;
+	margin: 0 0 0 115px;
+	padding-top: 59px;
+	font: 18px/25px "OpenSansRegular"
+}
+
+.resume p{
+	color: #fff;
+	margin: 51px 0 0 115px;
+	font: 14px/25px "OpenSansRegular"
+}
+
+.resume .button a{
+	text-transform: uppercase;
+	font: 14px/25px "OpenSansRegular";
+	color: #fff;
+	padding: 22px 41px 23px 50px;
+	border-radius: 50px;
+	background: #39d084;
+	margin: 55px 0 0 194px;
+}
+
+.button a:hover{
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#a7cfdf+0,23538a+100;Blue+3d+%238 */
+background: #a7cfdf; /* Old browsers */
+background: -moz-linear-gradient(left, #a7cfdf 0%, #23538a 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(left, #a7cfdf 0%,#23538a 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right, #a7cfdf 0%,#23538a 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a7cfdf', endColorstr='#23538a',GradientType=1 ); /* IE6-9 */
+text-decoration: none;
+}
+
+.button .size{
+	color: #fff;
+	font: 14px/25px "OpenSansRegular";
+	margin: 25px 0 0 310px;
+}

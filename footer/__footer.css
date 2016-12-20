@@ -1,0 +1,31 @@
+table.footer  {
+    width:  100%; /* Ширина таблицы */
+    border-spacing: 0; /* Расстояние между ячейками */
+    background: #355267;
+}
+
+table.footer td {
+    width: 50%; /* Ширина ячеек */
+    vertical-align: top; /* Выравнивание по верхнему краю */
+    color: #fff;
+	font: 12px "OpenSansRegular";
+	padding: 17px 17px 17px 17px;
+}
+
+td.rightcol { /* Правая ячейка */ 
+    text-align: right; /* Выравнивание по правому краю */
+    color: #fff;
+	text-transform: uppercase;
+	font: 12px "OpenSansRegular";
+	padding: 17px 17px 17px 17px;
+}
+
+footer a{
+    color: #fff;
+    text-decoration: none;
+}
+
+footer a:hover{
+    color: #f04949;
+    text-decoration: none;
+}
